@@ -1,0 +1,18 @@
+.websiteHeaderNav > ul {
+  list-style: none;
+}
+
+.websiteHeaderNav > ul > li {
+  display: inline-block;
+}
+
+.websiteHeaderNav > ul > li > a {
+  display: block;
+  color: #646464;
+  padding: 20px;
+  margin-right: 10px;
+}
+
+.websiteHeaderNav > ul > li > a:hover {
+  background-color: #f0f0f0;
+}
