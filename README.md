@@ -22,7 +22,7 @@ npm run production
 
 ## Roadmap
 
-Still need some improvements on the entry point js server render. The way it is feels heavy handed.
+Still need some improvements on the entry point js server render. The implemented way feels heavy handed.
 
 ## License
 
